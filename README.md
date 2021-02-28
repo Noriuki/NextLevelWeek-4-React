@@ -15,7 +15,7 @@ topics covered:\
 clone project
 
 `
-$ git clone https://github.com/Noriuki/
+$ git clone https://github.com/Noriuki/NextLevelWeek-4-Node
 `
 
 install dependencies
