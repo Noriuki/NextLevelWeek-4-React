@@ -11,7 +11,7 @@ topics covered:\
 :white_check_mark: [NextJS](https://nextjs.org/)\
 :white_check_mark: [Typescript](https://www.typescriptlang.org/)
 
-## Development setup
+## :wrench: Development setup
 clone project
 
 `
